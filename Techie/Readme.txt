@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Para este sitio use la plantilla techi de bootstrap
+
 
 Template Name: Techie
 Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
